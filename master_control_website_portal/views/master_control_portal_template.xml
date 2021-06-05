@@ -118,7 +118,7 @@
                         <strong class="col-lg-2">Link</strong>
                         <span class="col-lg-10">
                             <a role="button" class="btn btn-primary py-1" t-att-href="master_control_id.x_link" style="width:100px">
-                                Open Link
+                                Edit
                             </a>
                         </span>
                     </div>
